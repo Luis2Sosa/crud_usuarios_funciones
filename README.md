@@ -36,11 +36,6 @@ crud_usuarios_funciones/
 
 ## 🧪 Cómo usarlo
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/crud_usuarios_funciones.git
-   cd crud_usuarios_funciones
-
 Ejecuta el archivo principal:
 
 python crud.py
