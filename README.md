@@ -41,7 +41,8 @@ Ejecuta el archivo principal:
 python crud.py
 Interactúa con el menú desde consola.
 
-🧠 Sobre el autor
+🧠 Sobre el autor:
+
 Este proyecto fue desarrollado por Luis Sosa como parte de su entrenamiento práctico en desarrollo con Python.
 El enfoque fue aprender lógica, estructuras de control, manejo de archivos y organización de funciones.
 
