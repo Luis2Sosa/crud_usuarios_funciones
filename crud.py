@@ -2,7 +2,7 @@
 def agregar_usuario():
     nombre = input("Ingrese el nombre del usuario:\n").lower().strip()
     edad = input("Ingrese la edad del usuario:\n").strip()
-    correo = input("Ingrese el correo del usuario:\n").lower().strip()
+    correo = input("Ingrese el correo del usuario:\n").lower().strip() 
     
     # Hacemos una validación sencilla para el correo
     if "@" not in correo or "." not in correo:
@@ -123,6 +123,7 @@ if __name__ == "__main__":
     while True:
         menu()
         
+        # Para que el usuario elija una opción
         opcion = input("Ingrese un numero de opción para ejecutar:\n").strip()
     
         if opcion == "1":
